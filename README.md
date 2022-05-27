@@ -1,2 +1,2 @@
 # MS-Boronide-Obfuscator-Source
-This is a full source lua obfuscator | Not working for fivem
+This is a full source obfuscator for lua files | Not working for fivem
