@@ -19,3 +19,5 @@ Usage:
 $ cd src && node run.js
 ```
 not working for fivem
+
+i dont give support for this code
